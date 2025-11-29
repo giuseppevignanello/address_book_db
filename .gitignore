@@ -1,0 +1,6 @@
+# compiled files
+a.out
+*.o
+
+# binary db
+contacts.db
